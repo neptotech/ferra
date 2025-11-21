@@ -78,8 +78,11 @@ Ferra is a visually appealing theme that is inspired by the vibrant colors of [K
 - [Firefox](./ports/firefox)
 - [Ghostty](./ports/ghostty)
 - [Helix](https://github.com/casperstorm/ferra/tree/main/ports/helix)
+- [VSCode](https://github.com/neptotech/redocs-ferra-theme)
 - [WezTerm](https://github.com/casperstorm/ferra/tree/main/ports/wezterm)
+- [Windows Terminal](./ports/windows%20terminal/ferra%20scheme%20adding.md)
 - [Zed](./ports/zed)
 
 # License
 Ferra is released under the [MIT License](https://github.com/casperstorm/ferra/raw/main/LICENSE.md).
+
